@@ -1,0 +1,10 @@
+/* external css method */
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 70px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
